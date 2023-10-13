@@ -1,0 +1,3 @@
+interface ProgressUpdater {
+  int getProgress();
+}
